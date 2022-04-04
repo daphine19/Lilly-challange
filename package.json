@@ -1,0 +1,15 @@
+{
+  "name": "stx-js-recruitment",
+  "version": "0.0.1",
+  "description": "STXNext JS recruitment test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.2"
+  }
+}
